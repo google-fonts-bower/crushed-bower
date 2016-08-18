@@ -1,0 +1,17 @@
+{
+    "name": "crushed-googlefont",
+    "license": "APACHE2",
+    "authors": [
+        "Astigmatic"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/crushed-bower.git"
+    },
+    "description": "Crushed font",
+    "keywords": [
+        "font",
+        "DISPLAY"
+    ]
+}
